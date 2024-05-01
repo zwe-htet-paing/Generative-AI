@@ -1,4 +1,4 @@
-# AI Demos with Gradio
+# GenerativeAI Applications Demo with Gradio
 
 This project showcases various AI models integrated with Gradio for interactive demonstrations. It includes functionalities like text summarization, named entity recognition (NER), image captioning, image generation, and chat with a language model (LLM).
 
@@ -8,19 +8,19 @@ This project provides a user-friendly interface for interacting with different o
 
 ## Features
 
-- Text Summarization: Summarize any text using the [`Falconsai/text_summarization`](https://huggingface.co/Falconsai/text_summarization) model.
+- **Text Summarization**: Summarize any text using the [`Falconsai/text_summarization`](https://huggingface.co/Falconsai/text_summarization) model.
 
     ![Text Summarization](asset/summarization.png)
-- Named Entity Recognition (NER): Find entities in text using the `[dslim/bert-base-NER`](https://huggingface.co/dslim/bert-base-NER) model.
+- **Named Entity Recognition (NER)**: Find entities in text using the `[dslim/bert-base-NER`](https://huggingface.co/dslim/bert-base-NER) model.
 
     ![NER](asset/ner.png)
-- Image Captioning: Generate captions for images using the [`Salesforce/blip-image-captioning-basehttps://huggingface.co/Salesforce/blip-image-captioning-base`]() model.
+- **Image Captioning**: Generate captions for images using the [`Salesforce/blip-image-captioning-basehttps://huggingface.co/Salesforce/blip-image-captioning-base`]() model.
 
     ![Image Captioning](asset/image_captioning.png)
-- Image Generation: Generate images using the [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5) model.
+- **Image Generation**: Generate images using the [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5) model.
 
     ![Image  Generation](asset/image_generation.png)
-- Chat with Language Model (LLM): Engage in conversation with a language model using the [`tiiuae/falcon-7b-instruct`](https://huggingface.co/tiiuae/falcon-7b-instruct) model.
+- **Chat with Language Model (LLM)**: Engage in conversation with a language model using the [`tiiuae/falcon-7b-instruct`](https://huggingface.co/tiiuae/falcon-7b-instruct) model.
 
     ![Chat LLM](asset/chat_llm.png)
 
